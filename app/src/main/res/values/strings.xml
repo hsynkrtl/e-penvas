@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Saber Notes</string>
+    <string name="dashboard_title">Meine Notizbücher</string>
+    <string name="search_hint">Notizbücher durchsuchen…</string>
+    <string name="new_notebook">Neues Notizbuch</string>
+    <string name="create_notebook">Notizbuch erstellen</string>
+    <string name="title_label">Titel</string>
+    <string name="folder_label">Ordner</string>
+    <string name="paper_style_label">Papierstil</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_create">Erstellen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_export">Exportieren</string>
+    <string name="action_share">Teilen</string>
+    <string name="empty_notebooks_title">Noch keine Notizen</string>
+    <string name="empty_notebooks_subtitle">Tippe auf das Plus-Symbol, um dein erstes Notizbuch anzulegen.</string>
+    <string name="tool_pen">Stift</string>
+    <string name="tool_highlighter">Textmarker</string>
+    <string name="tool_eraser">Radierer</string>
+    <string name="tool_shapes">Formen</string>
+    <string name="tool_undo">Rückgängig</string>
+    <string name="tool_redo">Wiederholen</string>
+    <string name="tool_clear">Seite leeren</string>
+    <string name="paper_grid">Kariert</string>
+    <string name="paper_ruled">Liniert</string>
+    <string name="paper_dots">Punktraster</string>
+    <string name="paper_blank">Blanko</string>
+    <string name="paper_cornell">Cornell</string>
+    <string name="smart_dark_mode">Smart Dark Mode</string>
+</resources>

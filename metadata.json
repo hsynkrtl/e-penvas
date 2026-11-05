@@ -1,0 +1,6 @@
+{
+  "name": "Saber Notes",
+  "description": "Native handwriting and digital notebook app with fluid pen strokes, non-overlapping highlighter, multiple paper patterns, and floating toolbar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
